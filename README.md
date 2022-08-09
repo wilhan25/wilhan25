@@ -39,6 +39,9 @@
 - Hoje estou estudando Pentaho
 - Hoje estou estudando Flutter
 - Hoje estou estudando Objetive-C
+- Hoje estou estudando Unity
+- Hoje estou estudando Blender
+- Hoje estou estudando PhotoShop
 <br>
 Contatos: wilhan.amello@gmail.com
 
