@@ -17,8 +17,6 @@ Sou Engenheiro de Computação focado desenvolver em **Flutter**, **ESP32** e **
 
 ## ⚙️ Tecnologias & Ferramentas
 
-## ⚙️ Tecnologias & Ferramentas
-
 * **Linguagens:** Dart, C, C++, Python
 * **Mobile:** Flutter
 * **Embarcados:** ESP32, FreeRTOS
