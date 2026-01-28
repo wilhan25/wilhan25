@@ -2,7 +2,6 @@
 
 Sou Engenheiro de Computação focado desenvolver em **Flutter**, **ESP32** e **sistemas embarcados**, apaixonado por **IoT**, **automação** e **Linux**. Nerd que gosta de inventar soluções que conectam tanto hardware quanto software. Gamer nas horas vagas !!
 
----
 
 ## 🧠 Especialidades
 
@@ -13,7 +12,6 @@ Sou Engenheiro de Computação focado desenvolver em **Flutter**, **ESP32** e **
 * Automação e **IoT**
 * Ambientes **Linux** (Zorin OS, Ubuntu)
 
----
 
 ## ⚙️ Tecnologias & Ferramentas
 
@@ -24,7 +22,6 @@ Sou Engenheiro de Computação focado desenvolver em **Flutter**, **ESP32** e **
 * **Sistemas:** Linux (Zorin OS, Ubuntu)
 * **Ferramentas:** Git, VS Code, PlatformIO
 
----
 
 ## 🎓 Formação Acadêmica
 
@@ -34,15 +31,12 @@ Sou Engenheiro de Computação focado desenvolver em **Flutter**, **ESP32** e **
 * **Curso Técnico em Mecatrônica**
   ETEC Martin Luther King
 
----
 
 ## 🚀 Atualmente
 
 * Desenvolvendo projetos **IoT** com ESP32 + Flutter
 * Estudando **FreeRTOS** e arquitetura baseada em tasks
 * Explorando otimizações gráficas e desempenho no **Linux**
-
----
 
 ## 📂 Projetos em Destaque
 
@@ -57,7 +51,5 @@ Sou Engenheiro de Computação focado desenvolver em **Flutter**, **ESP32** e **
 ## 📫 Contato
 
 * Email: *wihan.amello@gmail.com*
-
----
 
 ⭐ Se curtir algum projeto, fique à vontade para dar um star!
