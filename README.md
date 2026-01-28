@@ -31,17 +31,15 @@
 ![](https://komarev.com/ghpvc/?username=wilhan25)
           
           
-          
+## 🧠 Especialidades
 
-- Hoje estou estudando Angular + SpringBoot
-- Hoje estou estudando Ionic 5
-- Hoje estou estudando ESP32
-- Hoje estou estudando Pentaho
-- Hoje estou estudando Flutter
-- Hoje estou estudando Objetive-C
-- Hoje estou estudando Unity
-- Hoje estou estudando Blender
-- Hoje estou estudando PhotoShop
+- Desenvolvimento mobile com **Flutter**
+- Programação embarcada com **ESP32**
+- Comunicação via **MQTT**
+- Integração hardware + software
+- Automação e IoT
+- Ambientes **Linux** (Zorin, Ubuntu, etc)
+
 <br>
 Contatos: wilhan.amello@gmail.com
 
