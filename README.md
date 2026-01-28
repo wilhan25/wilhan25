@@ -1,35 +1,4 @@
 ### Olá! Eu sou Wilhan 👋
-
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=wilhan25&theme=codeSTACKr&show_icons=true&count_private=true)](https://github.com/wilhan25/github-readme-stats)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=wilhan25&theme=codeSTACKr&layout=compact)](https://github.com/wilhan25/github-readme-stats)
-
-<div style="display: inline_block"><br>
-  <img align="center" src="https://icongr.am/devicon/ionic-original.svg?size=50&color=currentColor" />
-  <img align="center" src="https://icongr.am/devicon/angularjs-original.svg?size=50&color=currentColor"/>
-  <img align="center" src="https://icongr.am/devicon/javascript-original.svg?size=50&color=currentColor"/>
-  
-  <img align="center" src="https://icongr.am/devicon/c-original.svg?size=50&color=currentColor" />
-  <img align="center" src="https://icongr.am/devicon/csharp-original.svg?size=50&color=currentColor"/>
-  <img align="center" src="https://icongr.am/devicon/css3-original.svg?size=50&color=currentColor"/>
-  
-  <img align="center" src="https://icongr.am/devicon/html5-original.svg?size=50&color=currentColor" />
-  <img align="center" src="https://icongr.am/devicon/java-original-wordmark.svg?size=50&color=currentColor"/>
-  <img align="center" src="https://icongr.am/devicon/python-original.svg?size=50&color=currentColor"/>
-  
-  <img align="center" src="https://icongr.am/devicon/typescript-original.svg?size=50&color=currentColor" />
-  <img align="center" src="https://icongr.am/devicon/git-original.svg?size=50&color=currentColor"/>
-  
-  
-</div><br>
-
-[![trophy](https://github-profile-trophy.vercel.app/?username=wilhan25&theme=dark_lover)](https://github.com/wilhan25/github-profile-trophy)
-
-          
-[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=wilhan25&theme=dark&locale=pt-br)](https://git.io/streak-stats)
-          
-          
-![](https://komarev.com/ghpvc/?username=wilhan25)
-          
           
 ## 🧠 Especialidades
 
