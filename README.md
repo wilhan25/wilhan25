@@ -1,23 +1,65 @@
-### Olá! Eu sou Wilhan 👋
-          
+# 👋 Olá! Eu sou o Wilhan
+
+Sou Engenheiro de Computação focado desenvolver em **Flutter**, **ESP32** e **sistemas embarcados**, apaixonado por **IoT**, **automação** e **Linux**. Nerd que gosta de inventar soluções que conectam tanto hardware quanto software. Gamer nas horas vagas !!
+
+---
+
 ## 🧠 Especialidades
 
-- Desenvolvimento mobile com **Flutter**
-- Programação embarcada com **ESP32**
-- Comunicação via **MQTT**
-- Integração hardware + software
-- Automação e IoT
-- Ambientes **Linux** (Zorin, Ubuntu, etc)
+* Desenvolvimento mobile com **Flutter**
+* Programação embarcada com **ESP32**
+* Comunicação via **MQTT**
+* Integração Hardware + Software
+* Automação e **IoT**
+* Ambientes **Linux** (Zorin OS, Ubuntu)
 
-<br>
-Contatos: wilhan.amello@gmail.com
+---
 
-<div>
-<a href="https://www.youtube.com/seu-canal-youtube-aqui" target="_blank"><img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" target="_blank"></a>
-<a href="https://instagram.com/seu-usuário-instagram-aqui" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
-<a href="https://www.twitch.tv/seu-usuário-aqui" target="_blank"><img src="https://img.shields.io/badge/Twitch-9146FF?style=for-the-badge&logo=twitch&logoColor=white" target="_blank"></a>
-<a href = "mailto:contato@seu-usuário-aqui"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
-<a href="https://www.linkedin.com/in/wilhan-almeida-8a407023a/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>   
-</div>
+## ⚙️ Tecnologias & Ferramentas
 
-<!--![Snake animation](https://github.com/wilhan25/wilhan25/blob/output/github-contribution-grid-snake.svg) -->
+## ⚙️ Tecnologias & Ferramentas
+
+* **Linguagens:** Dart, C, C++, Python
+* **Mobile:** Flutter
+* **Embarcados:** ESP32, FreeRTOS
+* **Comunicação:** MQTT
+* **Sistemas:** Linux (Zorin OS, Ubuntu)
+* **Ferramentas:** Git, VS Code, PlatformIO
+
+---
+
+## 🎓 Formação Acadêmica
+
+* **Bacharelado em Engenharia de Computação**
+  Instituto Federal de São Paulo (IFSP)
+
+* **Curso Técnico em Mecatrônica**
+  ETEC Martin Luther King
+
+---
+
+## 🚀 Atualmente
+
+* Desenvolvendo projetos **IoT** com ESP32 + Flutter
+* Estudando **FreeRTOS** e arquitetura baseada em tasks
+* Explorando otimizações gráficas e desempenho no **Linux**
+
+---
+
+## 📂 Projetos em Destaque
+
+* 🔹 **ESP32 + MQTT + Flutter** – Controle e monitoramento em tempo real
+* 🔹 **Automação residencial** – Integração de sensores e atuadores
+* 🔹 **Estudos com FreeRTOS** – Organização de tasks e estados
+
+*(em constante evolução 🚧)*
+
+---
+
+## 📫 Contato
+
+* Email: *wihan.amello@gmail.com*
+
+---
+
+⭐ Se curtir algum projeto, fique à vontade para dar um star!
